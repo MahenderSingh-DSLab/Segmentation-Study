@@ -16,8 +16,10 @@ Contact Us for any queries or for reporting any errors:
 ---------------------
 ---
 mks
-Mahender Kumar Singh
-Data Science Laboratory
-National Brain Research Centre
+
+Mahender Kumar Singh,
+Data Science Laboratory,
+National Brain Research Centre,
 NH-8, Manesar, Gurgaon - 122 052
+
 Email : mks.nbrc@gov.in
